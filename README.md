@@ -1,0 +1,2 @@
+# fizzbuzz
+pythonでfizzbuzzを書こう!

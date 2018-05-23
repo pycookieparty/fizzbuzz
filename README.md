@@ -8,3 +8,8 @@ pythonでfizzbuzzを書こう!
 
 # 参加方法
 `fizzbuzz_{name}.py`というファイル名でコミット!
+
+or
+
+jupyter notebook 作成しました.
+`template_fizzbuzz.ipynb`
